@@ -1,2 +1,1 @@
-# cka
- CKA - Certified Kubernetes Administrators
+# CKA - Certified Kubernetes Administrators
